@@ -1,0 +1,2 @@
+#!/bin/sh
+sudo cp /var/lib/snapd/desktop/applications/*.desktop /usr/share/applications/
