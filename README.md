@@ -8,10 +8,10 @@ So I wrote this bash script.
 If you are facing the same issue,
 then follow this:
 
->> git clone https://github.com/marufmurtuza/mysnapfix.git
->> cd mysnapfix
->> sudo cp mysnapfix /usr/bin/
->> sudo chmod +x /usr/bin/mysnapfix
+--> git clone https://github.com/marufmurtuza/mysnapfix.git
+--> cd mysnapfix
+--> sudo cp mysnapfix /usr/bin/
+--> sudo chmod +x /usr/bin/mysnapfix
 
 Okay. You are done.
 Now you can run this by simply typing 'mysnapfix' in the terminal.
