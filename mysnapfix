@@ -1,7 +1,7 @@
 #!/bin/sh
 srcdir="/var/lib/snapd/desktop/applications"
 dstdir="/usr/share/applications"
-echo "Enter File Name: "
+echo "Enter App Name: "
 read file_name
 filep1=$file_name\_
 filep2=$file_name\.desktop
